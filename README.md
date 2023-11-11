@@ -15,5 +15,5 @@ El proyecto esta organizado con tres clases principales
 - Curso: Representa un curso con atributos como nombre, codigo y una lista de estudiantes inscritos. Tiene métodos para inscribir estudiantes en el curso y mostrar a los estudiantes inscritos.
 - main.py: Es este menu principal se crean las instancias para las -Estudiantes- y -Cursos- y permite al usuario interactuar a travez de la terminal.
 
-##Ejecucion del programa
+## Ejecucion del programa
 Para ejecutar el programa, simplemente ejecute el archivo main.py en la terminal. 
